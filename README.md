@@ -38,3 +38,9 @@ If more time were available, the following improvements could be considered:
 - **`pyttsx3`:** Chosen for its ability to generate speech from text. It is an offline library, which allows for text-to-speech functionality without requiring an internet connection. It also supports multiple speech engines and is cross-platform.
 
 These libraries were chosen to balance ease of use, functionality, and performance for the project's requirements.
+
+  ![image](https://github.com/user-attachments/assets/81a86e89-8adb-4756-979a-4a9d8c6fdebc)
+  
+  Audible
+  ![image](https://github.com/user-attachments/assets/162bc081-71fe-473e-9f2b-2db09f61d359)
+
